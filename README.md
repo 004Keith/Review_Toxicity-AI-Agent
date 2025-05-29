@@ -33,7 +33,14 @@ jupyter notebook ai_agent_toxicity_detection.ipynb
 
 - Fine-tune a local transformer model for higher accuracy  
 - Integrate into a real-time log monitoring pipeline  
-- Expand to cover additional threat categories  
+- Expand to cover additional threat categories
+
+## 🧑‍💻 Author
+
+- Built as part of an AI & Security exploration project.
+- Keith Warren Mathias - https://github.com/004Keith
+- Prathvi G Shetty - https://github.com/BlunderingProgrammmer
+  
 
 ## 📜 License
 
